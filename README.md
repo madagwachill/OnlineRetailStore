@@ -9,7 +9,7 @@ I started by cleaning the data. This tasks include:
     Change the type of columns (to_numeric, to_datetime, astype)
 
 After cleaning the data, I answered the following business questions using exploratory data analysis:
-Show a graph of Total Sales made By Country
+
     Total Number of Product ordered by Countries?
     What city sold the most product?
     What time should we display advertisemens to maximize the likelihood of customer’s buying product?
